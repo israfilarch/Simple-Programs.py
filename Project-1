@@ -1,20 +1,21 @@
-# This is a python program which contant your information; (Project:1)
+## 🧑‍💻 Program: My Information
 
+This program saves some personal details (like name, age, country, etc.) in a **dictionary** and then prints them nicely.
 
-# Code;
-
+### 📄 Code
+```python
 my_information = {
     "name": "Israfil",
-    "age" : 20,
+    "age": 20,
     "country": "Bangladesh",
-    "hobby": "coding",
+    "hobby": "Coding",
     "favorite_language": "Python",
     "study": "Intermediate",
-    "Phone": "***********",
-    "email": "mdisrafilalom2023",
+    "phone": "***********",
+    "email": "*******@gmail.com",
     "address": "Dhaka, Bangladesh",
 }
 
-print(my_information)
-
-# You can change it with your information.
+print("=== My Information ===")
+for key, value in my_information.items():
+    print(f"{key.capitalize()}: {value}")
