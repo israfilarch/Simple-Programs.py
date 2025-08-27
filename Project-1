@@ -1,9 +1,9 @@
 ## 🧑‍💻 Program: My Information
 
-This program saves some personal details (like name, age, country, etc.) in a **dictionary** and then prints them nicely.
+#This program saves some personal details (like name, age, country, etc.) in a **dictionary** and then prints them nicely.
 
 ### 📄 Code
-```python
+#```python
 my_information = {
     "name": "Israfil",
     "age": 20,
@@ -19,3 +19,4 @@ my_information = {
 print("=== My Information ===")
 for key, value in my_information.items():
     print(f"{key.capitalize()}: {value}")
+
