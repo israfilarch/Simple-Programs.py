@@ -1,3 +1,3 @@
-# Simple-Programs.py
+**About this Repository**
 
-This is a Python program series, in where I'm solving some of basic programs which are beginner friendly, and anyone can solve these. In every programs that I have solved there you will find every details about the programs that you need to understand.
+This is a collection of beginner-friendly Python programs. Each program is explained in detail, so you’ll not only see the solution but also understand how and why it works. The goal is to make learning Python simple, clear, and approachable for anyone starting out.
