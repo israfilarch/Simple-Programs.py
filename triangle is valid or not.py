@@ -21,4 +21,5 @@ while True: # infinite loop
     choice = input("Do you want to check another triangle? (yes/no): ") # take input from the user to continue or not
 
     if choice.lower() != 'yes': # if the user input is not yes then
+
         break # break the loop
